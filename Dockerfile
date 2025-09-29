@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Estágio 1: Build com Maven
 FROM maven:3.9.6-eclipse-temurin-21 AS build
 WORKDIR /app
@@ -23,3 +23,4 @@ ENV SPRING_DATASOURCE_PASSWORD=npg_yf2crBEFlh1K
 ENV SPRING_PROFILES_ACTIVE=prod
 
 ENTRYPOINT ["java", "-jar", "app.jar"]
+
