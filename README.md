@@ -92,3 +92,12 @@ http://localhost:8080/jogos
 >⭐ Campo de avaliação/nota
 >
 >📊 Dashboard com estatísticas
+
+---
+
+# 🎮 Biblioteca de Jogos
+
+Acesse a aplicação online aqui:  
+👉 [Biblioteca de Jogos](https://bibliotecajogos-5.onrender.com/jogos)
+
+
